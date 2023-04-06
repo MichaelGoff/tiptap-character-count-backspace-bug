@@ -36,11 +36,6 @@
           CharacterCount,
         ],
         content: null,
-        editorProps: {
-            attributes: {
-                class: `v-card v-sheet v-sheet--outlined`,
-            },
-        },
         onUpdate: () => {
             console.log('Update Called')
         }
